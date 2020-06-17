@@ -34,6 +34,21 @@ Transmission Control Protocol (end-to-end)
 
 - [x] 避免線路壅塞。
 
+# 3 ways-Handshack
+
+
+                發送端          接收端
+
+                Sync ------------>
+
+                  <-------------- Ack
+
+                <------Session ------>
+
+                ----> Send/Rcv Segments <----
+
+
+
 # UDP
 
 如通訊電話軟體，為了確保速度和使用者體驗，不會使用連結導向來保證訊息即時收到確認通知。
