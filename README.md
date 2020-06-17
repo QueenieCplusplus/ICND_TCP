@@ -16,6 +16,10 @@ Transmission Control Protocol (end-to-end)
         |   IPX   |    SPX    |
         +---------+-----------+
 
+# IPX & SPX
+
+https://en.wikipedia.org/wiki/IPX/SPX
+
 # App Id & SAP
 
 利用 port 辨識出上層應用程式辨識器 app id，使得各端點 end point 能夠組合分解來自更上層 (L5、 L6、L7) 的資料段 chunck or segement，將其轉換為本層需要的資料流。
