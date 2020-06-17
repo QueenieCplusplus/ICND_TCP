@@ -45,7 +45,7 @@ Transmission Control Protocol (end-to-end)
 
                 <------Session ------>
 
-                ----> Send/Rcv Segments <----
+            ----> Send/Rcv Segments <----
 
 
 
